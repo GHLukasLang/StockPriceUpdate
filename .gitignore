@@ -1,0 +1,6 @@
+# Ignore dependency directories  
+venv/
+# Ignore data
+data/
+# Ignore cache
+__pycache__
